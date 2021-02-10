@@ -2,7 +2,7 @@
 La traccia è stata implementata tramite il linguaggio di programmazione Java ed i seguenti software:
 
 - Eclipse IDE 2020/12
-- Database MySQL
+- Database MySQL 8.0
 - Objectaid UML Explorer
 - WindowsBuilder
 
